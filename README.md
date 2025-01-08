@@ -40,3 +40,10 @@ Mongoose ORM: For schema definition, validation, and easy querying of MongoDB.
 Frontend: Deployed on AWS, ensuring fast load times and a secure, scalable environment.
 Backend: Deployed on Render, providing a reliable backend infrastructure.
 CI/CD Pipeline: Set up automated Continuous Integration and Continuous Deployment for smooth updat
+
+MongoDB: A NoSQL database to store all data (user info, expenses, categories).
+Mongoose ORM: For schema definition, validation, and easy querying of MongoDB.
+🌐 Deployment
+Frontend: Deployed on AWS, ensuring fast load times and a secure, scalable environment.
+Backend: Deployed on Render, providing a reliable backend infrastructure.
+CI/CD Pipeline: Set up automated Continuous Integration and Continuous Deployment for smooth updat
