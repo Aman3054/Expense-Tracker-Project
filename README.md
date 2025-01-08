@@ -1,6 +1,5 @@
 # Expense Tracker
 
-![Expense Tracker Logo](https://via.placeholder.com/150) <!-- Replace with your logo URL -->
 
 The **Expense Tracker** is a web-based application designed to help users track and manage their daily expenses effortlessly. Built using the powerful **MERN stack** (MongoDB, Express.js, React.js, and Node.js), this system provides a scalable, responsive, and user-friendly platform for users to gain detailed insights into their spending patterns, optimize their budgets, and make smarter financial decisions.
 
@@ -66,11 +65,3 @@ The **Expense Tracker** is a web-based application designed to help users track 
 
 ---
 
-## 📦 Installation
-
-To run the Expense Tracker locally, follow these steps:
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/expense-tracker.git
-   cd expense-tracker
