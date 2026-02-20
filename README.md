@@ -44,18 +44,26 @@ This project follows a structured frontend–backend architecture built using th
 
 ## 📂 Project Structure
 
+## 📂 Project Structure
+
+```
 Expense-Tracker-App
+│
 ├── backend
 │   ├── config
 │   ├── controllers
+│   │   ├── transactionController.js
+│   │   └── userController.js
 │   ├── DB
+│   │   └── Database.js
 │   ├── models
 │   ├── Routers
 │   └── app.js
 │
 └── frontend
-├── public
-└── src
+    ├── public
+    └── src
+```
 
 ---
 
